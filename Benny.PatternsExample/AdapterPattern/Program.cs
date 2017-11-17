@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 /// 適配器模式 : 通過class的繼承或對象的組合，讓不兼容的接口變得兼容。
 /// 側重於轉換已有的接口。
 /// 
-/// 有分為class的適配器模式和對象的適配器模式
+/// 有分為class的適配器模式和對象的適配器模式 
 /// </summary>
 namespace AdapterPattern
 {
